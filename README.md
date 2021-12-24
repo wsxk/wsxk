@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm wsxk,a student in HUST.
+I am studying binary security and Internet of things security. Welcome to discuss these contents with me
+email: 1102949254@qq.com
+
 <!--
 **wsxk/wsxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
