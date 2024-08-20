@@ -2,7 +2,7 @@
 
 ~~I'm wsxk,a student in HUST.~~
 
-I am a company's slaves
+I am a company's slave
 
 I am studying binary security and IOT security... as well as something interesting. Welcome to discuss these contents with me
 
