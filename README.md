@@ -8,7 +8,6 @@ I am studying binary security and IOT security... as well as something interesti
 
 email: 1102949254@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsxk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wsxk/wsxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
